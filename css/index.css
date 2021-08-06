@@ -80,7 +80,12 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    margin: 2% 0;
+    margin: 5% 0;
+}
+
+nav a{
+    color:unset;
+    text-decoration: unset;
 }
 
 .traffic{
