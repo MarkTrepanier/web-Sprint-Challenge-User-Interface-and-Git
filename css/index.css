@@ -196,3 +196,26 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* about page specifics */
+
+.aboutblock{
+    margin: 1% 1% 0 1%;
+    padding-bottom: 3%;
+    border-bottom: 1px dashed black;
+}
+
+.aboutrow{
+    display: flex;
+    margin: 2% 2%;
+    
+}
+.learn{
+    display: inline-block;
+    margin-top: 3%;
+    padding:2% 5%;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: unset;
+    color: black;
+}
