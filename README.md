@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is the use of elements that describe themselves for easy understanding and use. For instance, the Section element for creating a section. the Button element creates a button.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+and inline element will not not be pushed down to its own line within html. nor can its width and height be changed.
 
 3. What are the 4 areas of the box model?
 
+content, padding, border, margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+the cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+git allows team members to work simultaniusly on the same project from remote locations that can later be merged.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
