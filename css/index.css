@@ -71,6 +71,22 @@ p {
     margin: 0 auto;
 }
 
+header{
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 2% 0;
+}
+
+.traffic{
+    margin-bottom: 4%;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
